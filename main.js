@@ -10,7 +10,6 @@ function createRandomArray(numbers, qty) {
 
 // Function untuk membagi array menjadi dua bagian berdasarkan index ganjil dan genap
 function splitArray(array) {
-  //let newArray = [...array]; // Menyimpan data array
   let arrayGanjil = []; // Variabel untuk menampung array dengan index ganjil
   let arrayGenap = []; // Variabel untuk menampung array dengan index genap
 
@@ -26,7 +25,6 @@ function splitArray(array) {
 
 // Function untuk menghitung total
 function calcTotal(array) {
-  //let newArray = [...array];
   let total = 0;
   let average = 0;
 
@@ -41,7 +39,6 @@ function calcTotal(array) {
 
 // Function untuk menghitung rata-rata
 function calcAverage(array) {
-  //let newArray = [...array];
   let total = 0;
   let average = 0;
 
@@ -56,7 +53,6 @@ function calcAverage(array) {
 
 // Function untuk mendapatkan angka paling kecil
 function getMin(array) {
-  //let newArray = [...array];
   let min;
   for (let i = 0; i < array.length; i++) {
     if (i === 0) {
@@ -72,7 +68,6 @@ function getMin(array) {
 
 // Function untuk mendapatkan angka paling besar
 function getMax(array) {
-  //let newArray = [...array];
   let max;
   for (let i = 0; i < array.length; i++) {
     if (i === 0) {
