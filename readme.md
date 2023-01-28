@@ -1,6 +1,6 @@
 # Rakamin Homework Week4
-> **Homework Week 4 - Javascript & Version Control**
-> *Bootcamp Online Fullstack Web Developer*
+> **Homework Week 4 - Javascript & Version Control**<br>
+> *Bootcamp Online Fullstack Web Development*
 >
 > **Nama: Dedit Hery Suprastyo**
 
