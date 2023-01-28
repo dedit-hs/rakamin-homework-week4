@@ -1,4 +1,4 @@
-// Function untuk membuat array 100 index dengan angka 1-50 random
+// Function untuk membuat array n(qty) index dengan angka 1-n(numbers) random
 function createRandomArray(numbers, qty) {
   let randomArray = [];
   for (let i = 0; i < qty; i++) {
@@ -103,10 +103,13 @@ let maxIndexGenap = getMax(arrayIndexGenap); // Mencari nilai max pada array yan
 
 console.log(`randomArray: ${randomArray}`);
 console.log(`Panjang randomArray: ${randomArray.length}`);
+console.log();
 console.log(`arrayIndexGanjil: ${arrayIndexGanjil}`);
-console.log(`Panjang randomArray: ${arrayIndexGanjil.length}`);
+console.log(`Panjang randomArrayGanjil: ${arrayIndexGanjil.length}`);
+console.log();
+console.log();
 console.log(`arrayIndexGenap: ${arrayIndexGenap}`);
-console.log(`Panjang randomArray: ${arrayIndexGenap.length}`);
+console.log(`Panjang randomArrayGenap: ${arrayIndexGenap.length}`);
 console.log();
 console.log(`totalIndexGanjil: ${totalIndexGanjil}`);
 console.log(`averageIndexGanjil: ${averageIndexGanjil}`);
