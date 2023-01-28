@@ -1,5 +1,6 @@
 # Rakamin Homework Week4
 > Homework Week 4 - Bootcamp Online Fullstack Web Developer
+>
 > Nama: Dedit Hery Suprastyo
 
 ## SOAL
@@ -8,15 +9,15 @@
 2. Pecahlah menjadi 2 array berdasarkan indexnya, yakni array pada index genap dan array pada index ganjil, gunakan method push() untuk menambahkan
 nilai baru pada array
 3. Gunakan 2 array yang telah dibuat untuk mendapatkan
-  - Min
-  - Max
-  - Total
-  - Rata rata
+    - Min
+    - Max
+    - Total
+    - Rata rata
 4. Bandingkan kedua buah array, contoh
-  - Min lebih besar array genap
-  - Max lebih besar array ganjil
-  - Total memiliki nilai sama antara array genap dan ganjil
-  - Rata rata lebih besar array ganjil
+    - Min lebih besar array genap
+    - Max lebih besar array ganjil
+    - Total memiliki nilai sama antara array genap dan ganjil
+    - Rata rata lebih besar array ganjil
 
 ## OUTPUT
 - Array dengan jumlah index 100
